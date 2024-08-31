@@ -6,7 +6,7 @@ https://amardhimann.github.io/Only_bootstrap/Introduction/index.html
 https://amardhimann.github.io/Only_bootstrap/Move%20It
 
 
-3) Dog Tinder (project)---> 
+3). Dog Tinder (project)---> 
 https://amardhimann.github.io/Only_bootstrap/Move%20It
 
 
