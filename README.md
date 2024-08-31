@@ -1,5 +1,5 @@
 1).Bootstrap Introduction
-https://amardhimann.github.io/Only_bootstrap/
+https://amardhimann.github.io/Only_bootstrap/Introduction/index.html
 
 
 
